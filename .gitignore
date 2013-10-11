@@ -1,3 +1,8 @@
+# editor bak files
+*.bak
+*~
+
+# misc
 lib-cov
 *.seed
 *.log

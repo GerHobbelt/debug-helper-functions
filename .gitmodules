@@ -1,0 +1,3 @@
+[submodule "javascript-debug"]
+	path = javascript-debug
+	url = git://github.com/cowboy/javascript-debug.git
