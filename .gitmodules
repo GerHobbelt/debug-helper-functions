@@ -1,3 +1,6 @@
 [submodule "javascript-debug"]
 	path = javascript-debug
-	url = git://github.com/cowboy/javascript-debug.git
+	url = git@github.com:GerHobbelt/javascript-debug.git
+[submodule "javascript-stacktrace"]
+	path = javascript-stacktrace
+	url = git@github.com:GerHobbelt/javascript-stacktrace.git

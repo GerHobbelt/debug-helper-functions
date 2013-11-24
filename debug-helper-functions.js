@@ -1,10 +1,13 @@
 
-
 // helpers for when you wish to run the basic examples in your browser:
 ///////////////////////////////////////////////////////////////////
 //
 // Tested OK on IE10, FF19, FF20, Chromium 25.0.1365.0 (173798), Safari 5.1.7 (Win7/64)
 //
+
+
+// require('stacktrace'); // --> printStackTrace()
+
 
 
 
