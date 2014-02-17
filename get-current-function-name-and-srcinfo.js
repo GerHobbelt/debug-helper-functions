@@ -80,15 +80,3 @@ function stacktrace_extract_fn_and_srcinfo(stackline) {
     };
 }
 
-///////////////////////////////////////////////////////////////////
-
-
-
-
-
-
-
-
-
-// Ensure this file has completely loaded AND PARSED before we take off...
-window.visyond_file_counter = (isNaN(window.visyond_file_counter + 1) ? 1 : window.visyond_file_counter + 1);
